@@ -50,7 +50,7 @@ body {
   box-sizing: border-box;
   background-color: var(--Very-dark-blue-color-card);
   border-radius: 15px;
-  overflow: hidden;
+  overflow: auto;
 }
 
 /*! **********************Image Section************************** */
