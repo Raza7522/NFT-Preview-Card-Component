@@ -6,6 +6,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 ## Overview
@@ -16,6 +17,11 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
+
+### Links
+
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-page-design-using-cssflexbox--_DgtdD8AE)
+- Live Site URL: (https://raza7522.github.io/NFT-Preview-Card-Component/)
 
 ## My process
 
