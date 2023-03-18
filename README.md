@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/responsive-page-design-using-cssflexbox--_DgtdD8AE)
-- Live Site URL: (https://raza7522.github.io/NFT-Preview-Card-Component/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-page-design-using-cssflexbox--_DgtdD8AE)
+- Live Site URL: [Live site URL](https://raza7522.github.io/NFT-Preview-Card-Component/)
 
 ## My process
 
